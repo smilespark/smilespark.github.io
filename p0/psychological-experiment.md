@@ -2,7 +2,7 @@
 
 >背景信息：在一个 Stroop （斯特鲁普）任务中，参与者得到了一列文字，每个文字都用一种油墨颜色展示。参与者的任务是将文字的打印颜色大声说出来。这项任务有两个条件：一致文字条件，和不一致文字条件。在一致文字条件中，显示的文字是与它们的打印颜色匹配的颜色词，如“红色”、“蓝色”。在不一致文字条件中，显示的文字是与它们的打印颜色不匹配的颜色词，如“紫色”、“橙色”。在每个情况中，我们将计量说出同等大小的列表中的墨色名称的时间。每位参与者必须全部完成并记录每种条件下使用的时间。	
 
-## 判断变量
+## 变量
 - 自变量independent variable：测试条件。即“显示的文字”及“与它们的打印颜色匹配的颜色词”相同，或不相同。
   
 - 因变量predict variable：每个条件下，受试者说出同等大小的列表中的墨色名称的时间。
@@ -17,8 +17,8 @@
 - 无法确定总体参数（平均值，标准差），则无法进行z检验，但可以进行t检验；
 - 根据t检验假设前提判断如下
  1. 以下是两组样本的直方图，认为样本来自的总体大体符合正态分布（通过样本分布估计总体分布）；
- ![Figure 1第一组](https://github.com/smilespark/smilespark.github.io/blob/master/p0/figure-1.png){ImgCap}{/ImgCap}
- ![Figure 2第二组](https://github.com/smilespark/smilespark.github.io/blob/master/p0/figure-2.png){ImgCap}{/ImgCap}
+ ![Figure 1第一组](https://github.com/smilespark/smilespark.github.io/blob/master/p0/figure-1.png "第一组")
+ ![Figure 2第二组](https://github.com/smilespark/smilespark.github.io/blob/master/p0/figure-2.png "第二组")
  
  2. 因为题干没特殊说明，所以认为是随机样本，可以用来估算总体偏差；
  3. 此处应为是相依样本，所以可以假设样本所代表的总体方差相等；
@@ -30,31 +30,38 @@
 
 根据已学知识和以上条件分析，得出结论：可以并只能选择单样本t检验（单尾检验；
 
-	描述统计量
-	集中趋势测量	变异测量
-	平均数mean	标准偏差standard deviation
-Congruent	14.05	3.56
-Incongruent	22.02	4.80
-差异样本	-7.96	4.86
+## 描述统计量
+| 组别 | 均值 | 标准差 |
+| ---- |:----:| ----:|
+| 对照组 | 14.05 | 3.56 |
+| 实验组 | 22.02 | 4.80 |
+| 差异样本 | -7.96 | 4.86 |
 
-	可视化
- 
+## 可视化
 观察结果：通过比较发现第二组样本的中位数大于第一组，由于中位数可以更好的代表样本平均水平，故推测样本中的所有受试者，在条件变化后，花费时间“整体水平上”增加了，认为当“显示的文字”及“与它们的打印颜色匹配的颜色词”不相同时，受试者说出同等大小的列表中的墨色名称的时间可能会增加。
-	推论统计量
-	假设检验
-	本次选择单样本t检验； 
-	t-statistic=  (X ̅_1-X ̅_2)/(S/√n)=  (14.05-22.02)/(4.86/√24)= -8.03
-	df=n-1=24-1=23
-	p-value<.05
-	负向单尾检验，α水平选择0.05，t-critical=-1.714
-	t(23)=-8.03, p<.05, -direction
-	置信区间
-confidence interval on the mean difference；95%CI=(-10.01, -5.91)
-*magin of error=2.069×4.86/√24=2.05
-	效应量度量结果
-	Cohen’s d=  (X ̅-μ)/S=-1.64
-	r^2=t^2/(t^2+DF)=0.74
-结论：拒绝零假设，差异水平为-1.64，且差异的74%归因于假设条件。也就是说当“显示的文字”及“与它们的打印颜色匹配的颜色词”不相同时，受试者说出同等大小的列表中的墨色名称的时间会增加。符合期望。
-	扩展信息
-	导致所观察到的效应的原因可能是：后摄抑制（Retroactive interference (RI) is a phenomenon that occurs when newly learned information interferes with and impedes the recall of previously learned information.） [2]
-	类似任务：给定一段简短的音乐旋律的乐谱，要求受试者按照节拍唱出。第一次实验中播放给定的旋律；第二次实验中，播放其他同等节拍但完全不同的旋律。测试受试者正确唱出所有音符所用的时间。
+
+![Figure 3](https://github.com/smilespark/smilespark.github.io/blob/master/p0/figure-3.png "箱线图")
+
+## 推论统计量
+### 假设检验
+- 本次选择单样本t检验，负向单尾检验，α水平选择0.05； 
+- t统计量：t-statistic=  (X ̅_1-X ̅_2)/(S/√n)=(14.05-22.02)/(4.86/√24)= -8.03
+- 自由度：df=n-1=24-1=23
+- P值：p-value<.05
+- t临界值：t-critical=-1.714
+- 结论：t(23)=-8.03, p<.05, -direction
+### 置信区间confidence interval on the mean difference
+- 误差范围：magin of error=2.069×4.86/√24=2.05
+- 95%CI=(-10.01, -5.91)
+
+### 效应量度量结果
+- 效应量：Cohen’s d=  (X ̅-μ)/S=-1.64
+- 决定系数：r^2=t^2/(t^2+DF)=0.74
+
+## 结论
+拒绝零假设，差异水平为-1.64，且差异的74%归因于假设条件。也就是说当“显示的文字”及“与它们的打印颜色匹配的颜色词”不相同时，受试者说出同等大小的列表中的墨色名称的时间会增加。符合期望。
+
+## 扩展信息
+导致所观察到的效应的原因可能是：后摄抑制
+
+（Retroactive interference (RI) is a phenomenon that occurs when newly learned information interferes with and impedes the recall of previously learned information.）
