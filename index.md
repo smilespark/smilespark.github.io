@@ -3,7 +3,7 @@
 ### T检验
 #### P1：心理学实验
 
-[Link to report](http://davidventuri.github.io/udacity-dand-p1/)
+[Link to report](https://smilespark.github.io/p1/code-python)
 
 ### AB检验
 #### P2：在线教育产品优化设计
@@ -26,42 +26,3 @@
 ### 客户细分
 #### P6：层次分析法（The analytic hierarchy process）
 编写Python模块，实现层次分析算法。可在专家对特征评分的基础上：（1）进行评分一致性验证；（2）并输出权重。
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/smilespark/smilespark.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smilespark/smilespark.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
