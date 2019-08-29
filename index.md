@@ -3,7 +3,7 @@
 ### T检验
 #### P0：心理学实验
 
-[Link to report](https://smilespark.github.io/p1/code-python)
+[Link to report](https://smilespark.github.io/p0/psychological-experiment)
 
 ### AB检验
 #### P1：在线教育产品优化设计
