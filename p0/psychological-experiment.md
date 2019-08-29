@@ -17,9 +17,9 @@
 - 无法确定总体参数（平均值，标准差），则无法进行z检验，但可以进行t检验；
 - 根据t检验假设前提判断如下
  - 以下是两组样本的直方图，认为样本来自的总体大体符合正态分布（通过样本分布估计总体分布）；
- ![Figure 1第一组]
+ ![Figure 1第一组](https://github.com/smilespark/smilespark.github.io/blob/master/p0/figure-1.png)
  
- ![Figure 2第二组]
+ ![Figure 2第二组](https://github.com/smilespark/smilespark.github.io/blob/master/p0/figure-2.png)
  
  - 因为题干没特殊说明，所以认为是随机样本，可以用来估算总体偏差；
  - 此处应为是相依样本，所以可以假设样本所代表的总体方差相等；
