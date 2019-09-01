@@ -8,6 +8,8 @@
 ### 获得技能
 最常用的特征分析方法，调用经典模型，性能评价，通过决策树解释模型。
 
+[Link to code](https://smilespark.github.io/p4/code-titanic-project)
+
 *以下是报告正文*
 
 # 一、提出问题
@@ -91,6 +93,7 @@
 ### 训练模型，性能测评，模型排名
 ### 模型可视化：以决策树为例
 
+![决策树可视化](https://smilespark.github.io/p4/code-titanic-project-decision-tree.png)
 
 # 六、结论
 ### 背景分析
