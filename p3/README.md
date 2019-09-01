@@ -14,6 +14,9 @@
 3. SQL的主要优势就是在处理大规模数据时，比python、excel更快；但显然不能数据可视化。
 
 *（项目代码已通过所有测试用例）*
-[项目代码]()
-[测试用例]()
-![测试结果]()
+
+[项目代码](https://smilespark.github.io/p3/SQL-tournament-project)
+
+[测试用例](https://smilespark.github.io/p3/SQL-tournament-test)
+
+![测试结果](https://github.com/smilespark/smilespark.github.io/blob/master/p3/test-case-result.png?raw=true)
