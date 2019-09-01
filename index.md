@@ -43,3 +43,5 @@
 ### 客户细分
 #### P5：层次分析法（The analytic hierarchy process）
 编写Python模块，实现层次分析算法。可在专家对特征评分的基础上：（1）进行评分一致性验证；（2）并输出权重。
+
+[Link to report](https://smilespark.github.io/p5/)
