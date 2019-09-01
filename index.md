@@ -8,6 +8,8 @@
 ### AB检验
 #### P1：在线教育产品优化设计
 
+[Link to report](https://github.com/smilespark/smilespark.github.io/blob/master/p1/ab-test-product-design.pdf）
+
 ## 二、编程基础
 ### Python
 #### P2：处理网页数据
