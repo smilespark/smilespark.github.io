@@ -28,7 +28,16 @@
 ## 三、数据挖掘基础
 #### P4：泰坦尼克号生存预测
 1. 包括数据清洗（替换缺失值、删除异常值）、数据探索（计算统计量，可视化）、特征优化（相关性分析、区间分箱、合并拆分）、调用所有经典模型、并进行性能测评对比。
+
+[Link to report](https://smilespark.github.io/p4/)
+
 2. 额外练习：监督学习、非监督学习所有经典模型的调用、性能测评。
+
+[Link to Classification](https://smilespark.github.io/p4/ML-Classification)
+
+[Link to Regression](https://smilespark.github.io/p4/ML-Regression)
+
+[Link to unsupervised](https://smilespark.github.io/p4/ML-unsupervised)
 
 ## 四、商业分析逻辑
 ### 客户细分
