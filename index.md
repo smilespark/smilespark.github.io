@@ -17,6 +17,8 @@
 #### P2：处理网页数据
 包括PageRank算法，快速排序算法的实现。
 
+[Link to report](https://smilespark.github.io/p2/code-python)
+
 ### SQL
 #### P3：比赛得分数据库
 创建数据库，并进行增、删、聚合等操作。
