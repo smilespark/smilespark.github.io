@@ -9,4 +9,4 @@
 
 ### 关键词：成对比较矩阵，1-9标度方法，一致性检验，R.I.随机一致性指标查询表
 
-[Link to code](https://smilespark.github.io/model-RFM-project)
+[Link to code](https://smilespark.github.io/p5/model-RFM-project)
