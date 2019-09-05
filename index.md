@@ -1,5 +1,6 @@
 # 数据分析项目成果
-## 最新报告 *请耐心等待页面刷新*
+## 最新报告 
+*请耐心等待页面刷新*
 
 [电影数据分析结论](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q4Story)
 
