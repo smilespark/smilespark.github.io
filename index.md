@@ -1,4 +1,16 @@
 # 数据分析项目成果
+## 最新报告
+
+[电影数据分析结论](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q4Story)
+
+[发行总量、类型总量变化趋势](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q1Dashboard)
+
+[年度预算、投产比](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q2Dashboard)
+
+[基于小说改变的发行总量、历年数量、年度预算]（https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q3Dashboard）
+
+
+
 ## 一、统计学基础
 ### T检验
 #### P0：心理学实验
@@ -42,6 +54,6 @@
 ## 四、商业分析逻辑
 ### 客户细分
 #### P5：层次分析法（The analytic hierarchy process）
-编写Python模块，实现层次分析算法。可在专家对特征评分的基础上：（1）进行评分一致性验证；（2）并输出权重。
+编写Python模块，实现层次分析算法，可用于RFM客户细分模型。可在专家对特征评分的基础上：（1）进行评分一致性验证；（2）并输出权重。
 
 [Link to report](https://smilespark.github.io/p5/)
