@@ -7,7 +7,7 @@
 
 [年度预算、投产比](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q2Dashboard)
 
-[基于小说改变的发行总量、历年数量、年度预算]（https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q3Dashboard）
+[基于小说改变的发行总量、历年数量、年度预算](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q3Dashboard)
 
 
 
