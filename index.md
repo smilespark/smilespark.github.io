@@ -1,6 +1,14 @@
 # 数据分析项目成果
-## 最新报告 
+## 最新分析框架 
 *请耐心等待页面刷新*
+
+### 车机用户行为分析
+
+[电台APP](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q4Story)
+
+[月流量用量异常用](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q4Story)
+
+### 电影投资分析
 
 [电影数据分析结论](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q4Story)
 
