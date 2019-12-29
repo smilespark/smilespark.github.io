@@ -4,9 +4,9 @@
 
 ### 车机用户行为分析
 
-[电台APP](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q4Story)
+[电台APP](https://raw.githubusercontent.com/smilespark/smilespark.github.io/master/newly/logic-APP-diantai-sparkyu.png)
 
-[月流量用量异常用](https://public.tableau.com/profile/spark2849#!/vizhome/P3-movies_2/Q4Story)
+[月流量用量异常用](https://raw.githubusercontent.com/smilespark/smilespark.github.io/master/newly/logic-user-with-abnormal-traffic-sparkyu.png)
 
 ### 电影投资分析
 
